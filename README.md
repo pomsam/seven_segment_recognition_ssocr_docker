@@ -14,8 +14,9 @@ docker-compose build
 
 Recoginized sample test image `./images/test_22.jpg` .
 ```
-docker-compose run ssocr                                                                 ?[HEAD]
+docker-compose run ssocr
 root@xxxxxxxx:/app# ssocr -d-1 ./images/test_22.jpg -D./images/temp.png -t 30
 22
 ```
 
+See `./images/temp.png` . You can check the recognition for this sample image.
