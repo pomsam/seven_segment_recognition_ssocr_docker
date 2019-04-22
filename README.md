@@ -20,3 +20,6 @@ root@xxxxxxxx:/app# ssocr -d-1 ./images/test_22.jpg -D./images/temp.png -t 30
 ```
 
 See `./images/temp.png` . You can check the recognition for this sample image.
+
+# other document
+* [ssocrで7セグメントディスプレイを認識する](https://qiita.com//junara/items/2f6cafadd8f3ac3336f0)
